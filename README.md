@@ -68,7 +68,7 @@ int main() {
 
 
 ## OUTPUT
-<img width="489" height="401" alt="VirtualBox_Parrot Security 6 0_15_05_2026_13_37_33" src="https://github.com/user-attachments/assets/7946d2e6-24de-49b6-9584-9dd7e41e7dd1" />
+<img width="1380" height="768" alt="WhatsApp Image 2026-05-15 at 1 54 22 PM" src="https://github.com/user-attachments/assets/d5125c40-9e01-45c1-b102-8ad56c946bfc" />
 
 # RESULT:
 The programs are executed successfully.
